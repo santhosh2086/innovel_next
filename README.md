@@ -1,3 +1,4 @@
+
 # INNOVEL — Next.js Website + Express Backend
 
 This repository contains the INNOVEL Next.js frontend and Express backend. Real `.env` files are intentionally excluded for security. Configure environment variables in your local environment and hosting dashboard using the `.env.example` files as a guide.
@@ -81,3 +82,6 @@ Deploy `backend/` to a Node.js hosting service. Set the start command to `npm st
 - Never upload real `.env` files, database URLs with credentials, admin passwords, webhook secrets, or API keys.
 - If any secret was previously pushed to a public repository, rotate it; deleting the file alone is not sufficient.
 - A successful build does not prove backend/database functionality. Test production APIs after both services are deployed.
+=======
+# innovel_next
+
