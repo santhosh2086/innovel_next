@@ -1,0 +1,5 @@
+Brand SVG assets used in the course tools section are locally bundled so the course page has no external logo/CDN dependency.
+Several brand marks are based on Font Awesome Free 6.7.2 brand icons.
+Font Awesome Free license: https://fontawesome.com/license/free
+Icons: CC BY 4.0. Fonts: SIL OFL 1.1. Code: MIT License.
+Other marks are simplified, locally drawn representations for tools whose brand artwork is not included in the bundled Font Awesome set.

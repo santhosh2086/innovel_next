@@ -1,0 +1,24 @@
+# Dependencies and build output
+**/node_modules/
+**/.next/
+**/dist/
+**/build/
+**/coverage/
+
+# Environment files / secrets (keep examples)
+.env
+.env.*
+!.env.example
+!.env.*.example
+**/.env
+**/.env.*
+!**/.env.example
+!**/.env.*.example
+
+# Local data and logs
+**/data/
+**/*.log
+*.log
+.DS_Store
+Thumbs.db
+.vercel/

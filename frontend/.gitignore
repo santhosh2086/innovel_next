@@ -1,0 +1,11 @@
+node_modules/
+dist/
+data/
+.env
+.env.local
+*.log
+
+backend/.env
+backend/data/
+.next/
+next-env.d.ts
