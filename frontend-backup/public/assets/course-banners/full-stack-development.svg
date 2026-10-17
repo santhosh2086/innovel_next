@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+<title>FULL STACK course banner</title><desc>CODE / API / DATABASE</desc>
+<rect width="1200" height="760" fill="#0B1233"/>
+<g opacity=".12" stroke="#fff" stroke-width="1"><path d="M0 140H1200M0 280H1200M0 420H1200M0 560H1200"/><path d="M160 0V760M320 0V760M480 0V760M640 0V760M800 0V760M960 0V760"/></g>
+<path d="M0 640H1200" stroke="#D8232A" stroke-width="3"/>
+<text x="72" y="92" fill="#D8232A" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700" letter-spacing="4">FULL STACK</text>
+<text x="72" y="150" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" letter-spacing="2">CODE / API / DATABASE</text>
+<g fill="none" stroke="#fff" stroke-width="2" opacity=".78">
+<rect x="700" y="130" width="390" height="360" rx="2"/>
+<path d="M700 210H1090M700 300H1090M700 390H1090M830 130V490M960 130V490" opacity=".25"/>
+</g>
+<text x="740" y="270" fill="#fff" font-family="Courier New,monospace" font-size="46" font-weight="700">&lt;&gt; /api</text>
+
+<circle cx="1030" cy="420" r="28" fill="#D8232A"/><circle cx="1030" cy="420" r="10" fill="#0B1233"/>
+<text x="72" y="700" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" letter-spacing="3">MERN + PYTHON</text>
+<text x="1128" y="700" text-anchor="end" fill="#fff" opacity=".55" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="2">INNOVEL / TRAINING / PLACEMENT</text>
+</svg>
